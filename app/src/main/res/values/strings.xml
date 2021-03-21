@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Surfaces</string>
+
+    <string name="tab_text_1">Hockey</string>
+    <string name="tab_text_2">Basketball</string>
+    <string name="tab_text_3">Soccer</string>
+    <string name="tab_text_4">Volleyball</string>
+    <string name="tab_text_5">Baseball</string>
+</resources>
